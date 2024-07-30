@@ -1,0 +1,16 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\'{I}ndice}{1}{section*.1}%
+\contentsline {section}{\'{I}ndice de figuras}{1}{section*.2}%
+\contentsline {section}{\'{I}ndice de cuadros}{1}{section*.3}%
+\contentsline {section}{\numberline {1}Introducción}{2}{section.1}%
+\contentsline {section}{\numberline {2}Descripción del Dataset}{2}{section.2}%
+\contentsline {section}{\numberline {3}Hipótesis Formuladas}{3}{section.3}%
+\contentsline {section}{\numberline {4}Análisis y Resultados}{4}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Hipótesis 1: Los jugadores con una calificación más alta tienden a ganar más partidas}{4}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Hipótesis 2: El resultado de la partida depende del tipo de apertura utilizado, es decir ciertas aperturas específicas tienen una mayor tasa de victorias para las blancas o las negras}{5}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Hipótesis 3: Las partidas con un mayor número de turnos tienden a terminar en tablas}{7}{subsection.4.3}%
+\contentsline {section}{\numberline {5}Conclusiones}{8}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Hipótesis 1: Los jugadores con una calificación más alta tienden a ganar más partidas}{8}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Hipótesis 2: El resultado de la partida depende del tipo de apertura utilizado, es decir ciertas aperturas específicas tienen una mayor tasa de victorias para las blancas o las negras}{8}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Hipótesis 3: Las partidas con un mayor número de turnos tienden a terminar en tablas}{8}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Conclusión final}{8}{subsection.5.4}%
