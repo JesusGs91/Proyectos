@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.22)  30 JUL 2024 16:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.22)  30 JUL 2024 17:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/Users/jesusgs/Desktop/Jesus GS/Formacion/BootCamp D&A/DS/Proyectos/EDA_CHESS/Memoria/memoria.tex"
-(/Users/jesusgs/Desktop/Jesus GS/Formacion/BootCamp D&A/DS/Proyectos/EDA_CHESS/Memoria/memoria.tex
+**"/Users/jesusgs/Desktop/Jesus GS/Formacion/BootCamp D&A/DS/Proyectos/Proyectos/EDA_CHESS/Memoria/memoria.tex"
+(/Users/jesusgs/Desktop/Jesus GS/Formacion/BootCamp D&A/DS/Proyectos/Proyectos/EDA_CHESS/Memoria/memoria.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls
@@ -483,12 +483,12 @@ Package rerunfilecheck Info: File `memoria.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  13009 strings out of 474116
- 207448 string characters out of 5743682
+ 207478 string characters out of 5743682
  1938187 words of memory out of 5000000
  35184 multiletter control sequences out of 15000+600000
  571341 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,9n,79p,1201b,533s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,9n,79p,1211b,533s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb>
 Output written on memoria.pdf (9 pages, 1156619 bytes).
 PDF statistics:

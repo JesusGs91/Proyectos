@@ -1,8 +1,8 @@
-PWD /Users/jesusgs/Desktop/Jesus GS/Formacion/BootCamp D&A/DS/Proyectos/EDA_CHESS/Memoria
+PWD /Users/jesusgs/Desktop/Jesus GS/Formacion/BootCamp D&A/DS/Proyectos/Proyectos/EDA_CHESS/Memoria
 INPUT /usr/local/texlive/2024/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/jesusgs/Desktop/Jesus GS/Formacion/BootCamp D&A/DS/Proyectos/EDA_CHESS/Memoria/memoria.tex
+INPUT /Users/jesusgs/Desktop/Jesus GS/Formacion/BootCamp D&A/DS/Proyectos/Proyectos/EDA_CHESS/Memoria/memoria.tex
 OUTPUT memoria.log
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls

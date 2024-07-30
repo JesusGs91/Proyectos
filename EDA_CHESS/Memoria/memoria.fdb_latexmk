@@ -1,11 +1,11 @@
 # Fdb version 4
-["pdflatex"] 1722351210.37017 "/Users/jesusgs/Desktop/Jesus GS/Formacion/BootCamp D&A/DS/Proyectos/EDA_CHESS/Memoria/memoria.tex" "memoria.pdf" "memoria" 1722351211.32212 0
+["pdflatex"] 1722351738.94174 "/Users/jesusgs/Desktop/Jesus GS/Formacion/BootCamp D&A/DS/Proyectos/Proyectos/EDA_CHESS/Memoria/memoria.tex" "memoria.pdf" "memoria" 1722351739.91794 0
   "../Imagenes/Hipotesis_1.png" 1721887977.6482 38916 a30a6f8861835483ba6729fab519283c ""
   "../Imagenes/Hipotesis_2.png" 1721920271.31107 243282 7a7c40ee2a60c2cf08a390f5757d07e2 ""
   "../Imagenes/Hipotesis_2_2.png" 1721896198.39459 87506 4b7c3d1c7d87769488302a56e013a503 ""
   "../Imagenes/Hipotesis_3.png" 1721921824.70828 32620 031fef1184f80228ad1d8576d43b06e1 ""
   "../Imagenes/Imagen1.jpeg" 1721666624.62029 607068 09799f69a6bd3ed53c5651c64533de24 ""
-  "/Users/jesusgs/Desktop/Jesus GS/Formacion/BootCamp D&A/DS/Proyectos/EDA_CHESS/Memoria/memoria.tex" 1722351210.2679 11285 df33b8a1f2862b2750ce386292982761 ""
+  "/Users/jesusgs/Desktop/Jesus GS/Formacion/BootCamp D&A/DS/Proyectos/Proyectos/EDA_CHESS/Memoria/memoria.tex" 1722351210.2679 11285 df33b8a1f2862b2750ce386292982761 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/ecbx1095.tfm" 1136768653 3584 21b378cca2e40816b0e6d74a4dc98f04 ""
@@ -106,12 +106,12 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1721662061.78648 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1721662036 8221429 556c1c8ced661b26a252d9bd690d1e18 ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "memoria.aux" 1722351211.25445 5178 b9b76f1bcb80bd1e881074d801f770f0 "pdflatex"
-  "memoria.lof" 1722351211.25594 529 9bc311863a76e2ef36818f4c27550fa9 "pdflatex"
-  "memoria.lot" 1722351211.25596 634 184d946caa164c9b695d595b5dd68563 "pdflatex"
-  "memoria.out" 1722351211.25572 5430 745cefaad8f008761df052f8bb99d9a9 "pdflatex"
+  "memoria.aux" 1722351739.84435 5178 b9b76f1bcb80bd1e881074d801f770f0 "pdflatex"
+  "memoria.lof" 1722351739.84582 529 9bc311863a76e2ef36818f4c27550fa9 "pdflatex"
+  "memoria.lot" 1722351739.84585 634 184d946caa164c9b695d595b5dd68563 "pdflatex"
+  "memoria.out" 1722351739.84561 5430 745cefaad8f008761df052f8bb99d9a9 "pdflatex"
   "memoria.tex" 1722351210.2679 11285 df33b8a1f2862b2750ce386292982761 ""
-  "memoria.toc" 1722351211.25591 1779 177e56f527d0bc4f3ea1445ec9f34edb "pdflatex"
+  "memoria.toc" 1722351739.84579 1779 177e56f527d0bc4f3ea1445ec9f34edb "pdflatex"
   (generated)
   "memoria.aux"
   "memoria.lof"
