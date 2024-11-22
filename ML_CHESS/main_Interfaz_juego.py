@@ -16,6 +16,7 @@ from wand.image import Image as WandImage
 from tkinter import Tk, Label, Entry, Button, Toplevel, StringVar
 from PIL import Image, ImageTk
 import io
+from tkinter.filedialog import asksaveasfilename
 
 
 # Configuración de rutas
@@ -103,7 +104,7 @@ def predict_next_move(model, tokenizer, input_text, max_sequence_len):
     return next_move
 
 # Variables globales para el temporizador
-game_time = 180  # 3 minutos en segundos
+game_time = 300  # 5 minutos en segundos
 time_remaining = game_time
 timer_running = True
 
@@ -145,7 +146,7 @@ except FileNotFoundError:
     print(f"Tokenizador guardado en {tokenizer_path}")
 
 # Definir longitud máxima de secuencia
-max_sequence_len = 20  # Ajustar según el entrenamiento
+max_sequence_len = 20 
 
 # Crear la ventana principal de la interfaz
 root = Tk()
@@ -154,7 +155,7 @@ root.title("Sugerencia de Movimiento de Ajedrez")
 # Variables de entrada y salida
 input_var = StringVar()
 current_moves = ""
-board = chess.Board()  # Inicializar el tablero de manera global
+board = chess.Board() 
 
 # Mostrar el tablero al inicio
 board_image = board_to_image(board)
@@ -242,8 +243,8 @@ def show_board():
             board.push_san(next_move)
             current_moves += " " + next_move
             # Actualizar el historial con el movimiento de la máquina
-            move_history[-1] = (move_history[-1][0], next_move)  # Añadir movimiento de la máquina
-            add_time()  # Añadir tiempo por el movimiento del modelo
+            move_history[-1] = (move_history[-1][0], next_move) 
+            add_time() 
         else:
             Label(popup, text=f"El movimiento sugerido no es legal: {next_move}", fg="red").pack()
     except Exception as e:
@@ -251,7 +252,7 @@ def show_board():
 
     # Actualizar el tablero con el movimiento sugerido
     update_board_image()
-    input_var.set("")  # Limpiar el campo de entrada
+    input_var.set("") 
     entry.focus_set()
 
 # Crear un popup con la interfaz

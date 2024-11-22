@@ -23,7 +23,7 @@ with open(tokenizer_path, 'rb') as f:
     tokenizer = joblib.load(f)
 
 # Definir longitud máxima de secuencia
-max_sequence_len = 20  # Ajustar según el entrenamiento
+max_sequence_len = 20 
 
 # Función para preparar datos de validación
 def prepare_validation_data(data_path):
@@ -39,9 +39,8 @@ def prepare_validation_data(data_path):
 
     for game_moves in moves:
         for i in range(1, len(game_moves)):
-            inputs.append(" ".join(game_moves[:i]))  # Secuencia hasta el movimiento i
-            targets.append(game_moves[i])  # Movimiento objetivo
-
+            inputs.append(" ".join(game_moves[:i])) 
+            targets.append(game_moves[i]) 
     return pd.Series(inputs), pd.Series(targets)
 
 # Obtener datos de validación

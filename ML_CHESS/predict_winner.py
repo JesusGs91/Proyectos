@@ -1,5 +1,4 @@
 import joblib
-from data_prep import load_and_prepare_data
 
 def predict_winner(features):
     model = joblib.load('./models/winner_predictor.pkl')
@@ -8,7 +7,7 @@ def predict_winner(features):
 
 def main():
     # Ejemplo de características de entrada
-    features = [20, 1500, 1400, 100, 30, 3]  # [turns, white_rating, black_rating, rating_diff, game_duration, opening_ply]
+    features = [20, 1500, 1400, 100, 30, 3] 
     winner = predict_winner(features)
     print("Ganador previsto:", winner)
 
